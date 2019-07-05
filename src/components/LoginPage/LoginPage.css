@@ -1,0 +1,6 @@
+#dashboardTitle {
+  position: fixed;
+  left: 50%;
+  top: 17%;
+  transform: translate(-50%, -50%);
+}
